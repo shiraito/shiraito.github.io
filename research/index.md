@@ -19,7 +19,7 @@
 
 ## Selected Manuscripts
 
-- ["Uncovering Heterogeneous Treatment Effects"]("./files/jmp.pdf")  
+- ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
   
 - "Latent Heterogeneity in Item Response Models: Model-Based Approaches to Differential Item Functioning"  
