@@ -1,3 +1,18 @@
+## Peer-reviewed Articles
+
+- ["Large-scale Text Processing Pipeline with Apache Spark."](https://doi.org/10.1109/BigData.2016.7841068)  
+  Alexey Svyatkovskiy, Kosuke Imai, Mary Kroeger, and Yuki Shiraito  
+  *2016 IEEE International Conference on Big Data (Big Data)* (December 2016)  
+  DOI: 10.1109/BigData.2016.7841068
+
+- ["Coethnic Bias and Wartime Informing."](https://doi.org/10.1086/681590)
+
+## Unpublished Manuscripts
+
+## Publications in Japanese
+
+
+<!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -33,3 +48,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
