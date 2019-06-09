@@ -28,7 +28,7 @@
 
 ## Publications in Japanese
 
-- _The Koizumi Regime_ \[[『小泉政権の研究』](http://www.bokutakusha.com/books/2008/7.html)\]  
+- [_The Koizumi Regime_ \[小泉政権の研究\]](http://www.bokutakusha.com/books/2008/7.html)  
 
 
 <!--
