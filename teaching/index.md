@@ -9,7 +9,7 @@ of data analysis. The course assumes students has taken Political Science Math C
 equivalent. A previous background in statistics is desirable but not required for taking the
 course.
 
-- [Syllabus](./files/syl599.pdf)
+- [Syllabus (Fall 2018)](./files/syl599.pdf)
 - Lecture Slides  
   1. [Probability](./files/prob.pdf)
   2. [Random Variables and Expectation](./files/rv.pdf)
@@ -26,7 +26,7 @@ ods, approximate Bayesian inference, and Bayesian nonparametrics. Prerequisites 
 599 and 699, or familiarity with basic mathematical statistics and regression analysis equivalent
 to these courses.
 
-- [Syllabus](./files/syl599.pdf)
+- [Syllabus (Winter 2019)](./files/syl599.pdf)
 - Lecture Slides  
   1. [Bayesian Models](./files/basics.pdf)
   2. [Bayesian Linear Regression](./files/bayesreg.pdf)
@@ -35,6 +35,7 @@ to these courses.
   5. [Measurement Models](./files/measurement.pdf)
   6. [Text](./files/text.pdf)
 
+## Other Teaching Experience
 
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
