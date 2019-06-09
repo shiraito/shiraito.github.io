@@ -28,8 +28,8 @@
 
 ## Publications in Japanese
 
-- [_The Koizumi Regime_ \[小泉政権の研究\]](http://www.bokutakusha.com/books/2008/7.html)  
-
+- [小泉政権の研究 \[_The Koizumi Regime_\]](http://www.bokutakusha.com/books/2008/7.html)  
+  
 
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
