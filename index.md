@@ -1,7 +1,8 @@
 ## Welcome!
 
-I am Assistant Professor of Political Science and Faculty Associate of Center for Political Studies at the University of Michigan.
+I am Assistant Professor of [Political Science at the University of Michigan](https://lsa.umich.edu/polisci).  I am also Faculty Associate of the [Center for Political Studies](https://www.isr.umich.edu/cps) where my primary office is located, Faculty Member of the [Center for Japanese Studies](https://ii.umich.edu/cjs), and Affiliated Faculty of the [Michigan Institute for Data Science (MIDAS)](https://midas.umich.edu/).  I work primarily on the development and applications of Bayesian statistical models and large-scale computational algorithms for data analysis.
 
+<!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -37,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+-->
