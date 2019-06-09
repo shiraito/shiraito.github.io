@@ -34,7 +34,7 @@
   The Ikuo Kabashima Seminar, ed.  
   Tokyo: Bokutakusha (October 2008)  
   1. "Honsho no mokuteki to kosei" \[Introduction\]  
-  2. "Koizumi seiken ki no shinioritei ruru to habatsu" \[The Seniority Rule and Factions of the Liberal Democratic Party durint the Koizumi Administration\]
+  2. "Koizumi seiken ki no shinioritei ruru to habatsu" \[The Seniority Rule and Factions of the Liberal Democratic Party during the Koizumi Administration\]
   
   
   
