@@ -33,9 +33,11 @@
 - [_Koizumi seiken no kenkyu \[The Koizumi Regime_\]](http://www.bokutakusha.com/books/2008/7.html)  
   The Seventh Ikuo Kabashima Seminar (student organizers: Yoshihiro Nakajima, Ryo Fukuda, and Yuki Shiraito), ed.  
   Tokyo: Bokutakusha (October 2008)  
-  Chapters contributed  
+  - Chapters contributed  
   1. "Honsho no mokuteki to kosei" \[Introduction\]  
-  2. "Koizumi seiken ki no shinioritei ruru to habatsu" \[The Seniority Rule and Factions of the Liberal Democratic Party during the Koizumi Administration\]
+     Yuki Shiraito
+  2. "Koizumi seiken ki no shinioritei ruru to habatsu" \[The Seniority Rule and Factions of the Liberal Democratic Party during the Koizumi Administration\]  
+     Yuki Shiraito
   
   
   
