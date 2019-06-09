@@ -2,7 +2,7 @@
 
 ### endorse: Bayesian Measurement Models for Analyzing Endorsement Experiments
 
-Fit the hierarchical and non-hierarchical Bayesian measurement models proposed by Bullock, Imai, and Shapiro (2011) [<doi:10.1093/pan/mpr031>](https://doi.org/10.1093/pan/mpr031) to analyze endorsement experiments. Endorsement experiments are a survey methodology for eliciting truthful responses to sensitive questions. This methodology is helpful when measuring support for socially sensitive political actors such as militant groups. The model is fitted with a Markov chain Monte Carlo algorithm and produces the output containing draws from the posterior distribution.
+Fit the hierarchical and non-hierarchical Bayesian measurement models proposed by Bullock, Imai, and Shapiro (2011) <[doi:10.1093/pan/mpr031](https://doi.org/10.1093/pan/mpr031)> to analyze endorsement experiments. Endorsement experiments are a survey methodology for eliciting truthful responses to sensitive questions. This methodology is helpful when measuring support for socially sensitive political actors such as militant groups. The model is fitted with a Markov chain Monte Carlo algorithm and produces the output containing draws from the posterior distribution.
 
 - [The Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/web/packages/endorse/index.html)
 - [GitHub repository](https://github.com/SensitiveQuestions/endorse)
