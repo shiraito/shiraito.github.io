@@ -31,6 +31,10 @@
 ## Publications in Japanese
 
 - [_Koizumi seiken no kenkyu \[The Koizumi Regime_\]](http://www.bokutakusha.com/books/2008/7.html)  
+  The Ikuo Kabashima Seminar, ed.  
+  Tokyo: Bokutakusha (October 2008)  
+  1. "Honsho no mokuteki to kosei \[Introduction\]"  
+  2. "Koizumi seiken ki no shinioritei ruru to habatsu \[The Seniority Rule and Factions of the Liberal Democratic Party durint the Koizumi Administration\]"
   
   
   
