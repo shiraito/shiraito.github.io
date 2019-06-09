@@ -13,7 +13,8 @@ I am Assistant Professor of [Political Science at the University of Michigan](ht
 +1-734-615-5165
 
 - Office:  
-4259 Institute for Social Research, University of Michigan, 426 Thomson Street, Ann Arbor, MI 48104-2321
+Center for Political Studies, 4259 Institute for Social Research  
+426 Thomson Street, Ann Arbor, MI 48104-2321
 
 ## [Research](./research/)
 
