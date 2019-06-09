@@ -1,6 +1,27 @@
-## Welcome!
+# Welcome!
 
 I am Assistant Professor of [Political Science at the University of Michigan](https://lsa.umich.edu/polisci).  I am also Faculty Associate of the [Center for Political Studies](https://www.isr.umich.edu/cps) where my primary office is located, Faculty Member of the [Center for Japanese Studies](https://ii.umich.edu/cjs), and Affiliated Faculty of the [Michigan Institute for Data Science (MIDAS)](https://midas.umich.edu/).  I work primarily on the development and applications of Bayesian statistical models and large-scale computational algorithms for data analysis.
+
+[CV (April 2019)](cv.pdf)
+
+## Contact
+
+Email: [shiraito@umich.edu](mailto:shiraito@umich.edu)
+
+Phone: +1-734-615-5165
+
+4259 Institute for Social Research
+University of Michigan
+426 Thomson Street
+Ann Arbor, MI 48104-2321
+
+## Site Navigation
+
+[Research](./research/)
+
+[Software](./software/)
+
+[Teaching](./teaching/)
 
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
