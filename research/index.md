@@ -1,3 +1,5 @@
+# Research
+
 ## Peer-reviewed Articles
 
 - ["Large-scale Text Processing Pipeline with Apache Spark"](https://doi.org/10.1109/BigData.2016.7841068)  
@@ -28,9 +30,10 @@
 
 ## Publications in Japanese
 
-- [小泉政権の研究 \[_The Koizumi Regime_\]](http://www.bokutakusha.com/books/2008/7.html)  
+- [_Koizumi seiken no kenkyu \[The Koizumi Regime_\]](http://www.bokutakusha.com/books/2008/7.html)  
   
-
+  
+  
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
