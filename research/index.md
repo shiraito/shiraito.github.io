@@ -6,7 +6,7 @@
   DOI: 10.1109/BigData.2016.7841068
 
 - ["Coethnic Bias and Wartime Informing"](https://doi.org/10.1086/681590)  
-  Jason Lyall, Yuki Shiraito, and Kosuke Imai
+  Jason Lyall, Yuki Shiraito, and Kosuke Imai  
   _Journal of Politics_ 77(3): 833-858 (July 2015)  
   DOI: 10.1086/681590
   
@@ -28,7 +28,7 @@
 
 ## Publications in Japanese
 
-- _The Koizumi Regime_ [『小泉政権の研究』](http://www.bokutakusha.com/books/2008/7.html)  
+- _The Koizumi Regime_ \[[『小泉政権の研究』](http://www.bokutakusha.com/books/2008/7.html)\]  
 
 
 <!--
