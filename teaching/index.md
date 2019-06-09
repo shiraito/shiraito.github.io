@@ -10,11 +10,30 @@ equivalent. A previous background in statistics is desirable but not required fo
 course.
 
 - [Syllabus](./files/syl599.pdf)
-- Lecture Slides
-
+- Lecture Slides  
   1. [Probability](./files/prob.pdf)
   2. [Random Variables and Expectation](./files/rv.pdf)
   3. [Statistical Inference](./files/inference.pdf)
+
+## POLSCI 798: Advanced Topics in Quantitative Methodology
+
+This course is designed to introduce students to modern Bayesian data analysis with em-
+phasis on applications in social sciences. While the course is largely an applied course, it is
+intended to provide modeling and computational tools to its students so that they will be able
+to develop new applied models for analyzing original data in future research. Topics covered
+include Bayesian regression models, item response theory models, topic models, sampling meth-
+ods, approximate Bayesian inference, and Bayesian nonparametrics. Prerequisites are POLSCI
+599 and 699, or familiarity with basic mathematical statistics and regression analysis equivalent
+to these courses.
+
+- [Syllabus](./files/syl599.pdf)
+- Lecture Slides  
+  1. [Bayesian Models](./files/basics.pdf)
+  2. [Bayesian Linear Regression](./files/bayesreg.pdf)
+  3. [Discrete Choice Models](./files/discrete.pdf)
+  4. [Hierarchical Models](./files/hierarchical.pdf)
+  5. [Measurement Models](./files/measurement.pdf)
+  6. [Text](./files/text.pdf)
 
 
 <!--
