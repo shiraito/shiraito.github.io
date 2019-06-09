@@ -15,13 +15,11 @@ I am Assistant Professor of [Political Science at the University of Michigan](ht
 - Office:  
 4259 Institute for Social Research, University of Michigan, 426 Thomson Street, Ann Arbor, MI 48104-2321
 
-## Site Navigation
+## [Research](./research/)
 
-[Research](./research/)
+## [Software](./software/)
 
-[Software](./software/)
-
-[Teaching](./teaching/)
+## [Teaching](./teaching/)
 
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
