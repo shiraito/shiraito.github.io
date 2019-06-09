@@ -2,14 +2,17 @@
 
 ### endorse: Bayesian Measurement Models for Analyzing Endorsement Experiments
 
-Fit the hierarchical and non-hierarchical Bayesian measurement models proposed by Bullock, Imai, and Shapiro (2011) <[doi:10.1093/pan/mpr031](https://doi.org/10.1093/pan/mpr031)> to analyze endorsement experiments. Endorsement experiments are a survey methodology for eliciting truthful responses to sensitive questions. This methodology is helpful when measuring support for socially sensitive political actors such as militant groups. The model is fitted with a Markov chain Monte Carlo algorithm and produces the output containing draws from the posterior distribution.
-
-- [The Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/web/packages/endorse/index.html)
+Fit the hierarchical and non-hierarchical Bayesian measurement models proposed by Bullock, Imai, and Shapiro (2011) <[doi:10.1093/pan/mpr031](https://doi.org/10.1093/pan/mpr031)> to analyze endorsement experiments. Endorsement experiments are a survey methodology for eliciting truthful responses to sensitive questions. This methodology is helpful when measuring support for socially sensitive political actors such as militant groups. The model is fitted with a Markov chain Monte Carlo algorithm and produces the output containing draws from the posterior distribution.  
+- Yuki Shiraito [aut, cre], Kosuke Imai [aut], Bryn Rosenfeld [ctb]
+- [CRAN - Package endorse](https://cran.r-project.org/package=endorse)
 - [GitHub repository](https://github.com/SensitiveQuestions/endorse)
 
 ### poisbinom: A Faster Implementation of the Poisson-Binomial Distribution
 
-Provides the probability, distribution, and quantile functions and random number generator for the Poisson-Binomial distribution. This package relies on FFTW to implement the discrete Fourier transform, so that it is much faster than the existing implementation of the same algorithm in R.
+Provides the probability, distribution, and quantile functions and random number generator for the Poisson-Binomial distribution. This package relies on FFTW to implement the discrete Fourier transform, so that it is much faster than the existing implementation of the same algorithm in R.  
+- Santiago Olivella [aut, cre], Yuki Shiraito [aut, cre]
+- [CRAN - Package poisbinom](https://cran.r-project.org/package=poisbinom)
+- [GitHub repository](https://github.com/solivella/poisbinom)
 
 
 <!--
