@@ -39,7 +39,10 @@ to these courses.
 
 ### Princeton University
 
-#### Politics Math Camp  
+- POL 349: Political Economy (Undergraduate)  
+  - Fall 2014  
+    Assistant Instructor for Thomas Romer
+- Politics Math Camp (Graduate)  
   - Summer 2014  
     Co-instructor with [Gabriel Lopez-Moctezuma](http://www.glmoctezuma.com/)  
     [Syllabus](./files/sylmath14.pdf)  
@@ -47,6 +50,21 @@ to these courses.
   - Summer 2013  
     Co-instructor with [Jidong Chen](https://www.jidongchen.org/)  
     [Syllabus](./files/sylmath13.pdf)
+- POL 345: Quantitative Analysis and Politics (Undergraduate)
+  - Fall 2013  
+    Assistant Instructor for [Marc Ratkovic](https://scholar.princeton.edu/ratkovic/home)
+- POL 575: Formal Political Analysis I (Graduate)
+  - Spring 2013  
+    Assistant Instructor for [Adam Meirowitz](https://faculty.utah.edu/u6002205-Adam_Meirowitz/hm/index.hml)
+- POL 573: Quantitative Analysis III (Graduate)
+  - Fall 2012  
+    Assistant Instructor for [Kosuke Imai](https://imai.fas.harvard.edu/)
+
+### The University of Tokyo
+
+- Advanced Quantitative Social Science
+  - Summer 2017  
+    Assistant Instructor for [Kosuke Imai](https://imai.fas.harvard.edu/)
 
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
