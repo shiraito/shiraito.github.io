@@ -39,9 +39,14 @@ to these courses.
 
 ### Princeton University
 
-- Politics Math Camp (Summer 2013 and 2014)  
-  Co-instructor with [Gabriel Lopez-Moctezuma](http://www.glmoctezuma.com/)
-- 
+#### Politics Math Camp  
+  - Summer 2014  
+    Co-instructor with [Gabriel Lopez-Moctezuma](http://www.glmoctezuma.com/)  
+    [Syllabus](./files/sylmath14.pdf)  
+    [Pre-camp Materials](./files/premath14.pdf)
+  - Summer 2013  
+    Co-instructor with [Jidong Chen](https://www.jidongchen.org/)  
+    [Syllabus](./files/sylmath13.pdf)
 
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
