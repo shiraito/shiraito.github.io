@@ -6,19 +6,21 @@ I am Assistant Professor of [Political Science at the University of Michigan](ht
 
 ## Contact
 
-- Email: [shiraito@umich.edu](mailto:shiraito@umich.edu)
+- Email:  
+[shiraito@umich.edu](mailto:shiraito@umich.edu)
 
-- Phone: +1-734-615-5165
+- Phone:  
++1-734-615-5165
 
-- Office: 4259 Institute for Social Research, University of Michigan, 426 Thomson Street, Ann Arbor, MI 48104-2321
+- Office:  
+Center for Political Studies, 4259 Institute for Social Research  
+426 Thomson Street, Ann Arbor, MI 48104-2321
 
-## Site Navigation
+## [Research](./research/)
 
-[Research](./research/)
+## [Software](./software/)
 
-[Software](./software/)
-
-[Teaching](./teaching/)
+## [Teaching](./teaching/)
 
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
