@@ -9,7 +9,7 @@ of data analysis. The course assumes students has taken Political Science Math C
 equivalent. A previous background in statistics is desirable but not required for taking the
 course.
 
-- [Syllabus (Fall 2018)](./files/syl599.pdf)
+- [Syllabus (Fall 2019)](./files/syl599.pdf)
 - Lecture Slides  
   1. [Probability](./files/prob.pdf)
   2. [Random Variables](./files/rv.pdf)
