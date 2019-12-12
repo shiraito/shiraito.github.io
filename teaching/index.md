@@ -13,7 +13,8 @@ course.
 - Lecture Slides
 
   1. [Probability](./files/prob.pdf)
-  2. [Random Variables and Expectation](./files/rv.pdf)
+  2. [Random Variables](./files/rv.pdf)
+  3. [Expectation and Moments](.files/moments.pdf)
   3. [Statistical Inference](./files/inference.pdf)
 
 
