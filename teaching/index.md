@@ -13,7 +13,7 @@ course.
 - Lecture Slides  
   1. [Probability](./files/prob.pdf)
   2. [Random Variables](./files/rv.pdf)
-  3. [Expectation and Moments](.files/moments.pdf)
+  3. [Expectation and Moments](./files/moments.pdf)
   3. [Statistical Inference](./files/inference.pdf)
 
 ## POLSCI 798: Advanced Topics in Quantitative Methodology
