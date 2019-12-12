@@ -18,12 +18,12 @@ course.
 
 ## POLSCI 798: Advanced Topics in Quantitative Methodology
 
-This course is designed to introduce students to modern Bayesian data analysis with em-
-phasis on applications in social sciences. While the course is largely an applied course, it is
+This course is designed to introduce students to modern Bayesian data analysis with emphasis
+on applications in social sciences. While the course is largely an applied course, it is
 intended to provide modeling and computational tools to its students so that they will be able
 to develop new applied models for analyzing original data in future research. Topics covered
-include Bayesian regression models, item response theory models, topic models, sampling meth-
-ods, approximate Bayesian inference, and Bayesian nonparametrics. Prerequisites are POLSCI
+include Bayesian regression models, item response theory models, topic models, sampling methods,
+approximate Bayesian inference, and Bayesian nonparametrics. Prerequisites are POLSCI
 599 and 699, or familiarity with basic mathematical statistics and regression analysis equivalent
 to these courses.
 
