@@ -36,7 +36,7 @@
   - Chapters contributed  
   1. "Honsho no mokuteki to kosei" \[Introduction\]  
      Yuki Shiraito
-  2. "Koizumi seiken ki no shinioritei ruru to habatsu" \[The Seniority Rule and Factions of the Liberal Democratic Party during the Koizumi Administration\]  
+  2. "Koizumi seiken ki no shinioriti ruru to habatsu" \[The Seniority Rule and Factions of the Liberal Democratic Party during the Koizumi Administration\]  
      Yuki Shiraito
   
   

@@ -1,6 +1,6 @@
 # Welcome!
 
-I am Assistant Professor of [Political Science at the University of Michigan](https://lsa.umich.edu/polisci).  I am also Faculty Associate of the [Center for Political Studies](https://www.isr.umich.edu/cps) where my primary office is located, Faculty Member of the [Center for Japanese Studies](https://ii.umich.edu/cjs), and Affiliated Faculty of the [Michigan Institute for Data Science (MIDAS)](https://midas.umich.edu/).  I work primarily on the development and applications of Bayesian statistical models and large-scale computational algorithms for data analysis.
+I am Assistant Professor of [Political Science at the University of Michigan](https://lsa.umich.edu/polisci).  I am also Faculty Associate of the [Center for Political Studies](https://www.isr.umich.edu/cps) where my primary office is located, Faculty Member of the [Center for Japanese Studies](https://ii.umich.edu/cjs), and Affiliated Faculty of the [Michigan Institute for Data Science (MIDAS)](https://midas.umich.edu/).  I work mainly on the development and applications of Bayesian statistical models and large-scale computational algorithms for data analysis.
 
 [CV (April 2019)](cv.pdf)
 
@@ -14,7 +14,7 @@ I am Assistant Professor of [Political Science at the University of Michigan](ht
 
 - Office:  
 Center for Political Studies, 4259 Institute for Social Research  
-426 Thomson Street, Ann Arbor, MI 48104-2321
+426 Thompson Street, Ann Arbor, MI 48104-2321
 
 ## [Research](./research/)
 
