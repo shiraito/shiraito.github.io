@@ -19,7 +19,7 @@
 
 ## Selected Manuscripts
 
-- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)
+- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
