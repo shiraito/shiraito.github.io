@@ -19,6 +19,9 @@
 
 ## Selected Manuscripts
 
+- ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)
+  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
+
 - ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito
 
