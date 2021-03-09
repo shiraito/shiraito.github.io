@@ -23,7 +23,8 @@
   Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
 
 - ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
-  Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito
+  Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
