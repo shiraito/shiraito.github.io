@@ -19,6 +19,9 @@
 
 ## Selected Manuscripts
 
+- ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
+  Yuki Shiraito, James Lo, and Santiago Olivella
+
 - ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)  
   Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
 
@@ -29,9 +32,6 @@
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
   
-- "Latent Heterogeneity in Item Response Models: Model-Based Approaches to Differential Item Functioning"  
-  James Lo, Santiago Olivella, and Yuki Shiraito
-
 - ["Policy Positions in Mixed Member Electoral Systems: Evidence from Japan"](https://imai.fas.harvard.edu/research/japan.html)  
   Shigeo Hirano, Kosuke Imai, Yuki Shiraito, and Masaki Taniguchi
 
