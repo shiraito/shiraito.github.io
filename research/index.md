@@ -19,8 +19,8 @@
 
 ## Selected Manuscripts
 
-- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)
-  [Supplementary Information](./files/intl_survey_si.pdf)
+- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
+  [Supplementary Information](./files/intl_survey_si.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
