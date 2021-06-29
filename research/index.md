@@ -19,15 +19,16 @@
 
 ## Selected Manuscripts
 
+- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)
+  [Supplementary Information](./files/intl_survey_si.pdf)
+  Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
+
 - ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella
 
 - ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)  
   Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
-
-- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
-  Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
-  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
