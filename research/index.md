@@ -20,9 +20,8 @@
 ## Selected Manuscripts
 
 - ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
-  [Supplementary Information](./files/intl_survey_si.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
-  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
+  [Supplementary Information](./files/intl_survey_si.pdf) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella
