@@ -5,26 +5,33 @@
 - ["Large-scale Text Processing Pipeline with Apache Spark"](https://doi.org/10.1109/BigData.2016.7841068)  
   Alexey Svyatkovskiy, Kosuke Imai, Mary Kroeger, and Yuki Shiraito  
   _2016 IEEE International Conference on Big Data (Big Data)_ (December 2016)  
-  DOI: 10.1109/BigData.2016.7841068
+  DOI: [10.1109/BigData.2016.7841068](https://doi.org/10.1109/BigData.2016.7841068)
 
 - ["Coethnic Bias and Wartime Informing"](https://doi.org/10.1086/681590)  
   Jason Lyall, Yuki Shiraito, and Kosuke Imai  
   _Journal of Politics_ 77(3): 833-858 (July 2015)  
-  DOI: 10.1086/681590
+  DOI: [10.1086/681590](https://doi.org/10.1086/681590)
   
 - ["Neural Correlate of Human Reciprocity in Social Interactions"](https://doi.org/10.3389/fnins.2013.00239)  
   Shiro Sakaiya, Yuki Shiraito, Junko Kato, Hiroko Ide, Kensuke Okada, Kouji Takano, and Kenji Kansaku  
   _Frontiers in Neuroscience_ 7:239 (December 2013)  
-  DOI: 10.3389/fnins.2013.00239  
+  DOI: [10.3389/fnins.2013.00239](https://doi.org/10.3389/fnins.2013.00239)  
 
 ## Selected Manuscripts
+
+- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
+  Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
+  [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
+
+- ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
+  Yuki Shiraito, James Lo, and Santiago Olivella
+
+- ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)  
+  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
   
-- "Latent Heterogeneity in Item Response Models: Model-Based Approaches to Differential Item Functioning"  
-  James Lo, Santiago Olivella, and Yuki Shiraito
-
 - ["Policy Positions in Mixed Member Electoral Systems: Evidence from Japan"](https://imai.fas.harvard.edu/research/japan.html)  
   Shigeo Hirano, Kosuke Imai, Yuki Shiraito, and Masaki Taniguchi
 

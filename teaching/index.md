@@ -1,5 +1,11 @@
 # Teaching
 
+## POLSCI 489-007: Introduction to Computational Political Science
+
+Computational/quantitative methods are increasingly utilized in political science and policy research. Do political leaders matter? Does canvassing change people's political attitudes? How can you find election fraud? This course will teach students computational skills for addressing these questions using quantitative data. The course will require students to work on a number of hands-on exercises in programming language **R** with real-world data. The goal is to provide students with basic knowledge on how to implement data analysis as well as how to visualize their results to effectively convey their evidence-based arguments.
+
+- [Syllabus (Winter 2021)](./files/syl489.pdf)
+
 ## POLSCI 599: Statistical Methods in Political Research I
 
 This is the first course to provide the foundation in statistics that students will need in
@@ -9,7 +15,7 @@ of data analysis. The course assumes students has taken Political Science Math C
 equivalent. A previous background in statistics is desirable but not required for taking the
 course.
 
-- [Syllabus (Fall 2019)](./files/syl599.pdf)
+- [Syllabus (Fall 2020)](./files/syl599.pdf)
 - Lecture Slides  
   1. [Probability](./files/prob.pdf)
   2. [Random Variables](./files/rv.pdf)
@@ -27,7 +33,7 @@ approximate Bayesian inference, and Bayesian nonparametrics. Prerequisites are P
 599 and 699, or familiarity with basic mathematical statistics and regression analysis equivalent
 to these courses.
 
-- [Syllabus (Winter 2019)](./files/syl798.pdf)
+- [Syllabus (Winter 2021)](./files/syl798.pdf)
 - Lecture Slides  
   1. [Bayesian Models](./files/basics.pdf)
   2. [Bayesian Linear Regression](./files/bayesreg.pdf)
