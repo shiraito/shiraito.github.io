@@ -19,7 +19,7 @@
 
 ## Selected Manuscripts
 
-- ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)
+- ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
   Guoer Liu and Yuki Shiraito
 
 - ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
