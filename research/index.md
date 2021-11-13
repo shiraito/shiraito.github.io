@@ -19,7 +19,7 @@
 
 ## Selected Manuscripts
 
-- ["International Law as Legal Obligations or Global Standards?"](./files/intl_survey.pdf)  
+- ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./files/intl_survey.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
