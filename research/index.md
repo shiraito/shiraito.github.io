@@ -24,7 +24,8 @@
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
-  Guoer Liu and Yuki Shiraito
+  Guoer Liu and Yuki Shiraito  
+  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
 - ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella
