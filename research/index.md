@@ -19,6 +19,10 @@
 
 ## Selected Manuscripts
 
+- ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)  
+  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
+  [Supplementary Information](./files/clash_si.pdf)
+
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active_note.pdf)  
   Mitchell Bosley, Saki Kuzushima, Ted Enamorado, and Yuki Shiraito  
   [Supplementary Information](./files/active_note_si.pdf)
@@ -33,9 +37,6 @@
 
 - ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella
-
-- ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)  
-  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
