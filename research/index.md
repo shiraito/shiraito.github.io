@@ -21,7 +21,7 @@
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
   Guoer Liu and Yuki Shiraito  
-  [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  [Presentation Slides](./files/multitestcjoint_slides.pdf)
+  [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
 - ["The Clash of Traditional Values: Opposition to Female Monarchs"](./files/clash.pdf)  
   Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito  
