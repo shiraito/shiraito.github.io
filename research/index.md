@@ -19,6 +19,10 @@
 
 ## Selected Manuscripts
 
+- ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
+  Guoer Liu and Yuki Shiraito  
+  [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  [Presentation Slides](./files/multitestcjoint_slides.pdf)
+
 - ["The Clash of Traditional Values: Opposition to Female Monarchs"](./files/clash.pdf)  
   Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito  
   [Supplementary Information](./files/clash_si.pdf)
@@ -30,10 +34,6 @@
 - ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./files/intl_survey.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
-
-- ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
-  Guoer Liu and Yuki Shiraito  
-  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
 - ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella
