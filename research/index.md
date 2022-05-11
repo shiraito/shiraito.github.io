@@ -31,7 +31,7 @@
   Guoer Liu and Yuki Shiraito  
   [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
-- ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
+- ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella
 
 - ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)  
