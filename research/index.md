@@ -19,23 +19,24 @@
 
 ## Selected Manuscripts
 
+- ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
+  Guoer Liu and Yuki Shiraito  
+  [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
+
+- ["The Clash of Traditional Values: Opposition to Female Monarchs"](./files/clash.pdf)  
+  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito  
+  [Supplementary Information](./files/clash_si.pdf)
+
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active_note.pdf)  
   Mitchell Bosley, Saki Kuzushima, Ted Enamorado, and Yuki Shiraito  
-  [Supplementary Information](./files/active_note_si.pdf)
+  [Supplementary Information](./files/active_note_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./files/intl_survey.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
-- ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
-  Guoer Liu and Yuki Shiraito  
-  [Presentation Slides](./files/multitestcjoint_slides.pdf)
-
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella
-
-- ["The Clash of Traditional Values: Attitudes toward a Male-line Monarchy under a Succession Crisis"](./files/clash.pdf)  
-  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
