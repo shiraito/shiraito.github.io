@@ -36,7 +36,8 @@
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
-  Yuki Shiraito, James Lo, and Santiago Olivella
+  Yuki Shiraito, James Lo, and Santiago Olivella  
+  [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
