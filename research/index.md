@@ -35,7 +35,7 @@
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
-- ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
+- ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and Santiago Olivella  
   [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
