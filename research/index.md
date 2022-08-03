@@ -19,6 +19,10 @@
 
 ## Selected Manuscripts
 
+- ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
+  ByungKoo Kim, Saki Kuzushima, and Yuki Shiraito  
+  [Supplementary Information](./files/pctm_si.pdf)
+
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
   Guoer Liu and Yuki Shiraito  
   [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
