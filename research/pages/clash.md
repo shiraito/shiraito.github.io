@@ -1,4 +1,4 @@
-# "The Clash of Traditional Values: Opposition to Female Monarchs," _European Political Science Review_ (Forthcoming)
+# Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito, "The Clash of Traditional Values: Opposition to Female Monarchs," _European Political Science Review_ (Forthcoming)
 
 ## Abstract
 The revision of sexist laws is complicated not only by disagreements between progressives and traditionalists, but also by opposing views held by different types of traditionalists.
