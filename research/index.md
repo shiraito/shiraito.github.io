@@ -2,6 +2,11 @@
 
 ## Peer-reviewed Articles
 
+- ["The Clash of Traditional Values: Opposition to Female Monarchs"](./pages/clash.md)  
+  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito  
+  _European Political Science Review_ (Forthcoming)  
+  [Abstract](./pages/clash.md) | [Paper](./files/clash.pdf) | [Supplementary Information](./files/clash_si.pdf)
+
 - ["Large-scale Text Processing Pipeline with Apache Spark"](https://doi.org/10.1109/BigData.2016.7841068)  
   Alexey Svyatkovskiy, Kosuke Imai, Mary Kroeger, and Yuki Shiraito  
   _2016 IEEE International Conference on Big Data (Big Data)_ (December 2016)  
@@ -22,10 +27,6 @@
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
   Guoer Liu and Yuki Shiraito  
   [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
-
-- ["The Clash of Traditional Values: Opposition to Female Monarchs"](./files/clash.pdf)  
-  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito  
-  [Supplementary Information](./files/clash_si.pdf)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active_note.pdf)  
   Mitchell Bosley, Saki Kuzushima, Ted Enamorado, and Yuki Shiraito  
