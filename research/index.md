@@ -24,6 +24,10 @@
 
 ## Selected Manuscripts
 
+- ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
+  ByungKoo Kim, Saki Kuzushima, and Yuki Shiraito  
+  [Supplementary Information](./files/pctm_si.pdf)
+
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
   Guoer Liu and Yuki Shiraito  
   [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
@@ -36,8 +40,9 @@
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
-- ["Latent Heterogeneity in Item Response Models: A Non-parametric Bayesian Model to Address Differential Item Functioning"](./files/dpirt.pdf)  
-  Yuki Shiraito, James Lo, and Santiago Olivella
+- ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./files/dpirt.pdf)  
+  Yuki Shiraito, James Lo, and Santiago Olivella  
+  [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
