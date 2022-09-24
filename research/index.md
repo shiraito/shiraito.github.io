@@ -32,9 +32,9 @@
   Guoer Liu and Yuki Shiraito  
   [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
-- ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active_note.pdf)  
+- ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
   Mitchell Bosley, Saki Kuzushima, Ted Enamorado, and Yuki Shiraito  
-  [Supplementary Information](./files/active_note_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
+  [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./files/intl_survey.pdf)  
   Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
