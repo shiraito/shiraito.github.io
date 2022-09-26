@@ -3,7 +3,7 @@
 ## Peer-reviewed Articles
 
 - ["The Clash of Traditional Values: Opposition to Female Monarchs"](./pages/clash.md)  
-  Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito  
+  [Guoer Liu](https://www.guoerliu.com/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _European Political Science Review_ (Forthcoming)  
   [Abstract](./pages/clash.md) | [Paper](./files/clash.pdf) | [Supplementary Information](./files/clash_si.pdf)
 
@@ -25,23 +25,23 @@
 ## Selected Manuscripts
 
 - ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
-  ByungKoo Kim, Saki Kuzushima, and Yuki Shiraito  
+  [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://ksaki.github.io/), and Yuki Shiraito  
   [Supplementary Information](./files/pctm_si.pdf)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
-  Guoer Liu and Yuki Shiraito  
+  [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
   [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
-  Mitchell Bosley, Saki Kuzushima, Ted Enamorado, and Yuki Shiraito  
+  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
   [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./files/intl_survey.pdf)  
-  Saki Kuzushima, Kenneth Mori McElwain, and Yuki Shiraito  
+  [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./files/dpirt.pdf)  
-  Yuki Shiraito, James Lo, and Santiago Olivella  
+  Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
   [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
