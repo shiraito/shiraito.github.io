@@ -4,7 +4,7 @@
 
 - ["The Clash of Traditional Values: Opposition to Female Monarchs"](./pages/clash.md)  
   [Guoer Liu](https://www.guoerliu.com/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  _European Political Science Review_ (Forthcoming)  
+  _European Political Science Review_ (In press)  
   DOI: [10.1017/S1755773922000418](https://doi.org/10.1017/S1755773922000418)  
   [Abstract](./pages/clash.md) | [Paper](./files/clash.pdf) | [Supplementary Information](./files/clash_si.pdf)
 
@@ -31,7 +31,7 @@
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
   [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
-  [Supplementary Appendices](./files/multitestcjoint_sup.pdf)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
+  [Supplementary Appendices](./files/multitestcjoint_sup.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/HIPDOP)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
