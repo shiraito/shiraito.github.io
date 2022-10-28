@@ -2,6 +2,11 @@
 
 ## Peer-reviewed Articles
 
+- ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
+  [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
+  _Political Analysis_ (Forthcoming)  
+  [Abstract](./pages/multitestcjoint.md) | [Paper](./files/multitestcjoint.pdf) | [Supplementary Appendices](./files/multitestcjoint_sup.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/HIPDOP)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
+
 - ["The Clash of Traditional Values: Opposition to Female Monarchs"](./pages/clash.md)  
   [Guoer Liu](https://www.guoerliu.com/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _European Political Science Review_ (In press)  
@@ -28,10 +33,6 @@
 - ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://ksaki.github.io/), and Yuki Shiraito  
   [Supplementary Information](./files/pctm_si.pdf)
-
-- ["Multiple Hypothesis Testing in Conjoint Analysis"](./files/multitestcjoint.pdf)  
-  [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
-  [Supplementary Appendices](./files/multitestcjoint_sup.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/HIPDOP)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
