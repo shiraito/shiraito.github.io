@@ -40,7 +40,7 @@
 
 - ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./files/intl_survey.pdf)  
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
+  [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
