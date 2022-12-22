@@ -1,6 +1,10 @@
 # Research
 
 ## Peer-reviewed Articles
+- ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
+  [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
+  _Review of International Organizations_ (Forthcoming)  
+  [Abstract](./pages/intl_survey.md) | [Paper](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
   [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
@@ -37,10 +41,6 @@
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
   [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
-
-- ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./files/intl_survey.pdf)  
-  [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./files/dpirt.pdf)  
   Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
