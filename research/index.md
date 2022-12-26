@@ -1,6 +1,7 @@
 # Research
 
 ## Peer-reviewed Articles
+
 - ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _Review of International Organizations_ (Forthcoming)  
@@ -33,6 +34,10 @@
   DOI: [10.3389/fnins.2013.00239](https://doi.org/10.3389/fnins.2013.00239)  
 
 ## Selected Manuscripts
+
+- ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./files/tutelary.pdf)  
+  [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
+  [Supplementary Information](./files/tutelary_si.pdf)
 
 - ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://ksaki.github.io/), and Yuki Shiraito  
