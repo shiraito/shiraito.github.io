@@ -2,7 +2,7 @@
 
 ## Peer-reviewed Articles
 
-- ["Public Preferences for International Law Compliance: Repecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
+- ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _Review of International Organizations_ (Forthcoming)  
   [Abstract](./pages/intl_survey.md) | [Paper](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
