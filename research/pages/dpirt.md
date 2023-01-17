@@ -1,8 +1,10 @@
-## Yuki Shiraito, James Lo, and Santiago Olivella, "A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"
+## Yuki Shiraito, James Lo, and Santiago Olivella, "A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US" _Political Analysis_ (Forthcoming)
 
 <!-- - [FirstView (DOI: )](https://doi.org/) -->
 
 - [Paper](../files/dpirt.pdf)
+
+- [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
 - [Replication Materials](https://doi.org/10.7910/DVN/BCDALU)
 

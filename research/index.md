@@ -2,6 +2,11 @@
 
 ## Peer-reviewed Articles
 
+- ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./pages/dpirt.md)  
+  Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
+  _Political Analysis_ (Forthcoming)  
+  [Abstract](./pages/dpirt.md) | [Paper](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
+
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _Review of International Organizations_ (Forthcoming)  
@@ -46,10 +51,6 @@
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
   [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
-
-- ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./pages/dpirt.md)  
-  Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
-  [Abstract](./pages/dpirt.md) | [Paper](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
