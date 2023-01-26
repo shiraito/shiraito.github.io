@@ -1,6 +1,6 @@
-## Guoer Liu and Yuki Shiraito, "Multiple Hypothesis Testing in Conjoint Analysis," _Political Analysis_ (Forthcoming)
+## Guoer Liu and Yuki Shiraito, "Multiple Hypothesis Testing in Conjoint Analysis," _Political Analysis_ (In press)
 
-<!-- - [FirstView (DOI: )](https://doi.org/) -->
+- [FirstView (DOI: 10.1017/pan.2022.30)](https://doi.org/10.1017/pan.2022.30)
 
 - [Accepted Manuscript](../files/multitestcjoint.pdf)
 
