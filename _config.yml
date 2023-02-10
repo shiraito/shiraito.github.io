@@ -4,7 +4,3 @@ description: Assistant Professor of Political Science, University of Michigan
 logo: bayesrule.jpg
 show_downloads: false
 google_analytics: G-990BFYYFPT
-# output:
-#   html_document:
-#     includes:
-#       in_header: GA_script.html
