@@ -3,11 +3,7 @@ title: Yuki Shiraito
 description: Assistant Professor of Political Science, University of Michigan
 logo: bayesrule.jpg
 show_downloads: false
-# Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : G-990BFYYFPT
+google_analytics: UA-141734678-1
 output:
   html_document:
     includes:
