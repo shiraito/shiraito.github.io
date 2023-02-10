@@ -8,7 +8,7 @@ analytics:
   provider               : "google-gtag"
   google:
     measurement_id          : G-990BFYYFPT
-# output:
-#   html_document:
-#     includes:
-#       in_header: GA_script.html
+output:
+  html_document:
+    includes:
+      in_header: GA_script.html
