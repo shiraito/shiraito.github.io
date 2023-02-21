@@ -4,7 +4,8 @@
 
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./pages/dpirt.md)  
   Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
-  _Political Analysis_ (Forthcoming)  
+  _Political Analysis_ (In press)  
+  DOI: [10.1017/pan.2023.1](https://doi.org/10.1017/pan.2023.1)  
   [Abstract](./pages/dpirt.md) | [Paper](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
