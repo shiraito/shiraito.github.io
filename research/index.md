@@ -21,9 +21,9 @@
 
 - ["The Clash of Traditional Values: Opposition to Female Monarchs"](./pages/clash.md)  
   [Guoer Liu](https://www.guoerliu.com/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  _European Political Science Review_ (In press)  
+  _European Political Science Review_ 15(2): 291-310 (May 2023)  
   DOI: [10.1017/S1755773922000418](https://doi.org/10.1017/S1755773922000418)  
-  [Abstract](./pages/clash.md) | [Accepted Manuscript](./files/clash.pdf) | [Supplementary Information](./files/clash_si.pdf)
+  [Abstract](./pages/clash.md) | [Accepted Manuscript](./files/clash.pdf) | [Supplementary Information](./files/clash_si.pdf) | [Publisher's Erratum](https://doi.org/10.1017/S1755773922000480)
 
 - ["Large-scale Text Processing Pipeline with Apache Spark"](https://doi.org/10.1109/BigData.2016.7841068)  
   Alexey Svyatkovskiy, Kosuke Imai, Mary Kroeger, and Yuki Shiraito  

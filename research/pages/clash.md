@@ -1,6 +1,8 @@
-## Guoer Liu, Kenneth Mori McElwain, and Yuki Shiraito, "The Clash of Traditional Values: Opposition to Female Monarchs," _European Political Science Review_ (In press)
+## [Liu, Guoer](https://www.guoerliu.com/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. 2023. "The Clash of Traditional Values: Opposition to Female Monarchs." _European Political Science Review_ 15(2): 291-310.
 
-- [FirstView (DOI: 10.1017/S1755773922000418)](https://doi.org/10.1017/S1755773922000418)
+- [Publisher's page (DOI: 10.1017/S1755773922000418)](https://doi.org/10.1017/S1755773922000418)
+
+- [Publisher's erratum](https://doi.org/10.1017/S1755773922000480)
 
 - [Accepted Manuscript](../files/clash.pdf)
 
