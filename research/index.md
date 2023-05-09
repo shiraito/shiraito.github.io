@@ -6,12 +6,13 @@
   Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
   _Political Analysis_ (In press)  
   DOI: [10.1017/pan.2023.1](https://doi.org/10.1017/pan.2023.1)  
-  [Abstract](./pages/dpirt.md) | [Paper](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
+  [Abstract](./pages/dpirt.md) | [Accepted Manuscript](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  _Review of International Organizations_ (Forthcoming)  
-  [Abstract](./pages/intl_survey.md) | [Paper](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
+  _Review of International Organizations_ (In press)  
+  DOI: [10.1007/s11558-023-09487-3](https://link.springer.com/article/10.1007/s11558-023-09487-3)  
+  [Abstract](./pages/intl_survey.md) | [Accepted Manuscript](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
   [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
