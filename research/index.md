@@ -11,7 +11,7 @@
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _Review of International Organizations_ (In press)  
-  DOI: [10.1007/s11558-023-09487-3](https://link.springer.com/article/10.1007/s11558-023-09487-3)  
+  DOI: [10.1007/s11558-023-09487-3](https://doi.org/10.1007/s11558-023-09487-3)  
   [Abstract](./pages/intl_survey.md) | [Accepted Manuscript](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
