@@ -3,8 +3,8 @@
 ## Peer-reviewed Articles
 
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./pages/dpirt.md)  
-  Yuki Shiraito, James Lo, and [Santiago Olivella](https://www.santiagoolivella.info/)  
-  _Political Analysis_ (In press)  
+  Yuki Shiraito, [James Lo](https://scholar.google.com/citations?user=4tdvLzIAAAAJ&hl=en), and [Santiago Olivella](https://www.santiagoolivella.info/)  
+  _Political Analysis_ 31(3): 430-447 (July 2023)  
   DOI: [10.1017/pan.2023.1](https://doi.org/10.1017/pan.2023.1)  
   [Abstract](./pages/dpirt.md) | [Accepted Manuscript](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
 
@@ -16,7 +16,7 @@
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
   [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
-  _Political Analysis_ (In press)  
+  _Political Analysis_ 31(3): 380-395 (July 2023)  
   DOI: [10.1017/pan.2022.30](https://doi.org/10.1017/pan.2022.30)  
   [Abstract](./pages/multitestcjoint.md) | [Accepted Manuscript](./files/multitestcjoint.pdf) | [Supplementary Appendices](./files/multitestcjoint_sup.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/HIPDOP)  |  [Presentation Slides](./files/multitestcjoint_slides.pdf)
 
