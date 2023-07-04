@@ -4,7 +4,7 @@ I am Assistant Professor of [Political Science at the University of Michigan](ht
 
 I am on leave in AY2022-2023.
 
-[CV (May 2023)](cv.pdf)
+[CV (June 2023)](cv.pdf)
 
 ## Contact
 
