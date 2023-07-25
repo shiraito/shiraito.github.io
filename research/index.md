@@ -12,7 +12,7 @@
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _Review of International Organizations_ (In press)  
   DOI: [10.1007/s11558-023-09487-3](https://doi.org/10.1007/s11558-023-09487-3)  
-  [Abstract](./pages/intl_survey.md) | [Accepted Manuscript](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
+  [Abstract](./pages/intl_survey.md) | [Accepted Manuscript](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/KTLTPS) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
   [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
