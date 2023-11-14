@@ -24,6 +24,8 @@ Center for Political Studies, 4259 Institute for Social Research
 
 ## [Teaching](./teaching/)
 
+## [Outreach](./outreach/)
+
 <!--
 You can use the [editor on GitHub](https://github.com/shiraito/shiraito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
