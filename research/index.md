@@ -2,17 +2,17 @@
 
 ## Peer-reviewed Articles
 
+- ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
+  [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
+  _The Review of International Organizations_ 19(1): 63-93 (January 2024)  
+  DOI: [10.1007/s11558-023-09487-3](https://doi.org/10.1007/s11558-023-09487-3)  
+  [Abstract](./pages/intl_survey.md) | [Accepted Manuscript](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/KTLTPS) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
+
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./pages/dpirt.md)  
   Yuki Shiraito, [James Lo](https://scholar.google.com/citations?user=4tdvLzIAAAAJ&hl=en), and [Santiago Olivella](https://www.santiagoolivella.info/)  
   _Political Analysis_ 31(3): 430-447 (July 2023)  
   DOI: [10.1017/pan.2023.1](https://doi.org/10.1017/pan.2023.1)  
   [Abstract](./pages/dpirt.md) | [Accepted Manuscript](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
-
-- ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
-  [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  _Review of International Organizations_ (In press)  
-  DOI: [10.1007/s11558-023-09487-3](https://doi.org/10.1007/s11558-023-09487-3)  
-  [Abstract](./pages/intl_survey.md) | [Accepted Manuscript](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/KTLTPS) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
   [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
