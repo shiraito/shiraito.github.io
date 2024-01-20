@@ -22,6 +22,14 @@ course.
   3. [Expectation and Moments](./files/moments.pdf)
   3. [Statistical Inference](./files/inference.pdf)
 
+## POLSCI 699: Statistical Methods in Political Research II
+
+This course is the first graduate-level course in applied statistical methods for political scientists. We begin by studying randomized experiments and the difference-in-means estimator of a treatment effect based on the potential outcomes framework for statistical causal inference. Students will then learn applications of linear regression for causal and predictive inference, including factorial experiments, linear interaction models, regression discontinuity designs, difference-in-differences, and encouragement designs. The course will conclude with an introduction to maximum likelihood estimation for nonlinear limited dependent variable models.
+
+- Syllabus (Winter 2024)
+- Lecture Slides  
+  1. [Potential Outcomes and Causal Estimands](./files/potential.pdf)
+
 ## POLSCI 798: Advanced Topics in Quantitative Methodology
 
 This course is designed to introduce students to modern Bayesian data analysis with emphasis
