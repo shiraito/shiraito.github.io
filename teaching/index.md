@@ -29,6 +29,9 @@ This course is the first graduate-level course in applied statistical methods fo
 - Syllabus (Winter 2024)
 - Lecture Slides  
   1. [Potential Outcomes and Causal Estimands](./files/potential.pdf)
+  2. [Identification and Inference for Randomized Experiments](./files/randomexp.pdf)
+  3. [Simple Linear Regression for Randomized Experiments](./files/simplelinear.pdf)
+  4. [Factorial Experiments and Interaction Effects](./files/factorial.pdf)
 
 ## POLSCI 798: Advanced Topics in Quantitative Methodology
 
