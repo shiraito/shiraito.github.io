@@ -43,6 +43,10 @@
 
 ## Selected Manuscripts
 
+- ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
+  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
+  [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
+
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./files/covid19note.pdf)  
   [Melanie Sayuri Dominguez](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)
 
@@ -53,10 +57,6 @@
 - ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://ksaki.github.io/), and Yuki Shiraito  
   [Supplementary Information](./files/pctm_si.pdf)
-
-- ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
-  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
-  [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
