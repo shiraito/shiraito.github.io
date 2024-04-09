@@ -48,10 +48,6 @@
 
 ## Selected Manuscripts
 
-- ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
-  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
-  [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
-
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./files/covid19note.pdf)  
   [Melanie Sayuri Dominguez](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)
 
