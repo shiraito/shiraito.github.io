@@ -2,6 +2,11 @@
 
 ## Peer-reviewed Articles
 
+- ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
+  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
+  _American Political Science Review_ (Conditionally accepted)  
+  [Abstract](./pages/activeText.md) | [Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [R package](https://github.com/activetext/activeText) | [arXiv](http://arxiv.org/abs/2202.02629)
+
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _The Review of International Organizations_ 19(1): 63-93 (January 2024)  
@@ -42,10 +47,6 @@
   DOI: [10.3389/fnins.2013.00239](https://doi.org/10.3389/fnins.2013.00239)  
 
 ## Selected Manuscripts
-
-- ["Improving Probabilistic Models in Text Classification via Active Learning"](./files/active.pdf)  
-  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
-  [Supplementary Information](./files/active_si.pdf) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./files/covid19note.pdf)  
   [Melanie Sayuri Dominguez](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)
