@@ -4,6 +4,8 @@
 
 - [Supplementary Information](../files/active_si.pdf)
 
+- [Supplementary Information (Dataverse-only)](../files/active_si_sim.pdf)
+
 - [R package "activeText"](https://github.com/activetext/activeText)
 
 - [arXiv](http://arxiv.org/abs/2202.02629)
