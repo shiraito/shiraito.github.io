@@ -4,7 +4,7 @@
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
-  _American Political Science Review_ (Conditionally accepted)  
+  _American Political Science Review_ (Forthcoming)  
   [Abstract](./pages/activeText.md) | [Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [R package](https://github.com/activetext/activeText) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
