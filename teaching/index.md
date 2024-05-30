@@ -26,8 +26,8 @@ course.
 
 This course is the first graduate-level course in applied statistical methods for political scientists. We begin by studying randomized experiments and the difference-in-means estimator of a treatment effect based on the potential outcomes framework for statistical causal inference. Students will then learn applications of linear regression for causal and predictive inference, including factorial experiments, linear interaction models, regression discontinuity designs, difference-in-differences, and encouragement designs. The course will conclude with an introduction to maximum likelihood estimation for nonlinear limited dependent variable models.
 
-- Syllabus (Winter 2024)
-- Lecture Slides  
+- [Syllabus (Winter 2024)](./files/syl699.pdf)
+- Lecture Slides (selected)  
   1. [Potential Outcomes and Causal Estimands](./files/potential.pdf)
   2. [Identification and Inference for Randomized Experiments](./files/randomexp.pdf)
   3. [Simple Linear Regression for Randomized Experiments](./files/simplelinear.pdf)
