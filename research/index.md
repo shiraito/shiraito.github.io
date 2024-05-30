@@ -38,7 +38,7 @@
 
 - ["Coethnic Bias and Wartime Informing"](https://doi.org/10.1086/681590)  
   Jason Lyall, Yuki Shiraito, and Kosuke Imai  
-  _Journal of Politics_ 77(3): 833-858 (July 2015)  
+  _The Journal of Politics_ 77(3): 833-858 (July 2015)  
   DOI: [10.1086/681590](https://doi.org/10.1086/681590)
   
 - ["Neural Correlate of Human Reciprocity in Social Interactions"](https://doi.org/10.3389/fnins.2013.00239)  
