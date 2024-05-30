@@ -2,6 +2,11 @@
 
 ## In Japanese/日本語
 
+- 「ベイズ統計モデルを用いた政治データ分析」  
+  白糸裕輝  
+  [中溝和弥・佐橋亮編『世界の岐路をよみとく基礎概念　比較政治学と国際政治学への誘い』](https://www.iwanami.co.jp/book/b645170.html)第11章.  
+  [Rコード・データ（zip形式）](./files/jpn_introBayes.zip)
+
 - [「政治学方法論と高校数学ー苦手だった数学の使い方ー」](https://ten.tokyo-shoseki.co.jp/ten_download/2022/2022099056.pdf)  
   白糸裕輝  
   [『ニューサポート　高校数学』Vol. 38（2022年秋号）](https://ten.tokyo-shoseki.co.jp/ten_download/2022/2022099050.htm): 14-15.
