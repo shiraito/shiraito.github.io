@@ -48,6 +48,10 @@
 
 ## Selected Manuscripts
 
+- ["When International Organizations Help Domestic Leaders Avoid Blame for Unpopular Policies"](./pages/iosupport.md)  
+  [Saki Kuzushima](https://ksaki.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
+  [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [EGAP Registration](https://osf.io/fxuek)
+
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./files/tutelary.pdf)  
   [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
   [Supplementary Information](./files/tutelary_si.pdf)
