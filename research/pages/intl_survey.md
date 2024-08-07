@@ -1,4 +1,4 @@
-## [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. 2024. "Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?" _The Review of International Organizations_ 19(1): 63-93.
+## [Saki Kuzushima](https://sakikuzushima.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. 2024. "Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?" _The Review of International Organizations_ 19(1): 63-93.
 
 - [Open access publisher's version (DOI: 10.1007/s11558-023-09487-3)](https://doi.org/10.1007/s11558-023-09487-3)
 
