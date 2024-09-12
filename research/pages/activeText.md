@@ -8,6 +8,8 @@
 
 - [Supplementary Information (Dataverse-only)](../files/active_si_sim.pdf)
 
+- [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY)
+
 - [R package "activeText"](https://github.com/activetext/activeText)
 
 - [arXiv](http://arxiv.org/abs/2202.02629)

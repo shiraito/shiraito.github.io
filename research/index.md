@@ -6,7 +6,7 @@
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
   _American Political Science Review_ (In press)  
   DOI: [10.1017/S0003055424000716](https://doi.org/10.1017/S0003055424000716)  
-  [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [R package](https://github.com/activetext/activeText) | [arXiv](http://arxiv.org/abs/2202.02629)
+  [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://sakikuzushima.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
