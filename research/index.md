@@ -3,12 +3,13 @@
 ## Peer-reviewed Articles
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
-  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://ksaki.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
-  _American Political Science Review_ (Forthcoming)  
-  [Abstract](./pages/activeText.md) | [Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [R package](https://github.com/activetext/activeText) | [arXiv](http://arxiv.org/abs/2202.02629)
+  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
+  _American Political Science Review_ (In press)  
+  DOI: [10.1017/S0003055424000716](https://doi.org/10.1017/S0003055424000716)  
+  [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText) | [arXiv](http://arxiv.org/abs/2202.02629)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
-  [Saki Kuzushima](https://ksaki.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
+  [Saki Kuzushima](https://sakikuzushima.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _The Review of International Organizations_ 19(1): 63-93 (January 2024)  
   DOI: [10.1007/s11558-023-09487-3](https://doi.org/10.1007/s11558-023-09487-3)  
   [Abstract](./pages/intl_survey.md) | [Accepted Manuscript](./files/intl_survey.pdf) | [Supplementary Information](./files/intl_survey_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/KTLTPS) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800474)
@@ -61,10 +62,10 @@
   [Supplementary Information](./files/tutelary_si.pdf)
 
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./files/covid19note.pdf)  
-  [Melanie Sayuri Dominguez](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)
+  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)
 
 - ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
-  [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://ksaki.github.io/), and Yuki Shiraito  
+  [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
   [Supplementary Information](./files/pctm_si.pdf)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
