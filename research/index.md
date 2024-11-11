@@ -1,6 +1,13 @@
 # Research
 
 ## Peer-reviewed Articles
+- ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./files/covid19note.pdf)  
+  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)  
+  _Social Science Japan Journal_ (Conditionally accepted)
+
+- ["Gendered Views on Immigration Policy Stances? The Case of Japan"](./files/gndrimgr.pdf)  
+  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
+  _Japanese Journal of Political Science_ (Pre-accepted pending completed results)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
@@ -60,9 +67,6 @@
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./files/tutelary.pdf)  
   [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
   [Supplementary Information](./files/tutelary_si.pdf)
-
-- ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./files/covid19note.pdf)  
-  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)
 
 - ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
