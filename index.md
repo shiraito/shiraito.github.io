@@ -3,7 +3,7 @@
 I am Assistant Professor of [Political Science at the University of Michigan](https://lsa.umich.edu/polisci).  I am also Faculty Associate of the [Center for Political Studies](https://www.isr.umich.edu/cps) where my primary office is located, Faculty Member of the [Center for Japanese Studies](https://ii.umich.edu/cjs), and Affiliated Faculty of the [Michigan Institute for Data Science (MIDAS)](https://midas.umich.edu/).  I work mainly on the development and applications of Bayesian statistical models and large-scale computational algorithms for data analysis.
 
 
-[CV (October 2024)](cv.pdf) | [ORCID](https://orcid.org/0000-0003-0264-1138) | [Web of Science](https://www.webofscience.com/wos/author/record/HRD-1390-2023)
+[CV (November 2024)](cv.pdf) | [ORCID](https://orcid.org/0000-0003-0264-1138) | [Web of Science](https://www.webofscience.com/wos/author/record/HRD-1390-2023)
 
 
 ## Contact
