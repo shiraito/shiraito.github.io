@@ -8,8 +8,8 @@
 
 - ["Gendered Views on Immigration Policy Stances? The Case of Japan"](./pages/gndrimgr.md)  
   [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
-  _Japanese Journal of Political Science_ (Pre-accepted pending completed results)  
-  [Abstract](./pages/gndrimgr.md) | [Manuscript](./files/gndrimgr.pdf) | [Supplementary Information](./files/gndrimgr_si.pdf)
+  _Japanese Journal of Political Science_ (Forthcoming)  
+  [Abstract](./pages/gndrimgr.md) | [Accepted Manuscript](./files/gndrimgr.pdf) | [Supplementary Information](./files/gndrimgr_si.pdf)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
