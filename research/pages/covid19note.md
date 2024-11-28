@@ -1,4 +1,4 @@
-## [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/). "Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic" _Social Science Japan Journal_ (Conditionally accepted).
+## [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/). "Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic." _Social Science Japan Journal_ (Conditionally accepted).
 
 - [Manuscript](../files/covid19note.pdf)
 
