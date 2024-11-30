@@ -4,6 +4,8 @@
 
 - [Supplementary Information](../files/gndrimgr_si.pdf)
 
+- [Replication Materials](https://doi.org/10.7910/DVN/LGBONY)
+
 ## Abstract
 Studies in political science have revealed that voters evaluate candidates' policy platforms based on gendered views, where women are expected to handle issues such as education well while men are perceived to be better at issues such as national security.
 However, the extent to which voters' views are gendered on immigration policy is less known, as existing theories offer varying interpretations of whether this issue is more aligned with the feminine or masculine stereotype.
