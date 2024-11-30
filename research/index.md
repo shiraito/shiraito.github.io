@@ -1,6 +1,11 @@
 # Research
 
 ## Peer-reviewed Articles
+- ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Tutelage"](./pages/tutelary.md)  
+  [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
+  _The Journal of Politics_ (Conditionally accepted)  
+  [Abstract](./pages/tutelary.md) | [Manuscript](./files/tutelary.pdf) | [Supplementary Information](./files/tutelary_si.pdf)
+
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./pages/covid19note.md)  
   [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)  
   _Social Science Japan Journal_ (Conditionally accepted)  
@@ -65,10 +70,6 @@
 - ["When International Organizations Help Domestic Leaders Avoid Blame for Unpopular Policies"](./pages/iosupport.md)  
   [Saki Kuzushima](https://ksaki.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [EGAP Registration](https://osf.io/fxuek)
-
-- ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./files/tutelary.pdf)  
-  [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
-  [Supplementary Information](./files/tutelary_si.pdf)
 
 - ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
