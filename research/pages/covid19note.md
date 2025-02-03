@@ -2,6 +2,8 @@
 
 - [Manuscript](../files/covid19note.pdf)
 
+- [Replication Materials](https://doi.org/10.7910/DVN/IATHHU)
+
 ## Abstract
 Japan had one of the most restrictive entry bans between 2020 and 2023 to curb the spread of COVID-19.
 While there was critical coverage of this entry ban by foreign media, how did Japanese citizens perceive these restrictions?
