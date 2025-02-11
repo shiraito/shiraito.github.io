@@ -62,6 +62,9 @@
   DOI: [10.3389/fnins.2013.00239](https://doi.org/10.3389/fnins.2013.00239)  
 
 ## Selected Manuscripts
+- ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./pages/pctm.md)  
+  [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
+  [Abstract](./pages/pctm.md) | [Manuscript](./files/pctm.pdf) | [Supplementary Information](./files/pctm_si.pdf)
 
 - ["A Dynamic Dirichlet Process Mixture Model for the Partisan Realignment of Civil Rights Issues in the U.S. House of Representatives"](./pages/dphmmix.md)  
   Nuannuan Xiang and Yuki Shiraito  
@@ -70,10 +73,6 @@
 - ["When International Organizations Help Domestic Leaders Avoid Blame for Unpopular Policies"](./pages/iosupport.md)  
   [Saki Kuzushima](https://ksaki.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [EGAP Registration](https://osf.io/fxuek)
-
-- ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./files/pctm.pdf)  
-  [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
-  [Supplementary Information](./files/pctm_si.pdf)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
   Yuki Shiraito
