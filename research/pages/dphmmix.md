@@ -4,6 +4,8 @@
 
 - [Supplementary Information](../files/dphmmix_si.pdf)
 
+- arXiv: [2502.17733](https://doi.org/10.48550/arXiv.2502.17733)
+
 ## Abstract
 Evolutionary societal changes often prompt a debate.
 The positions of the two major political parties in the United States on civil rights issues underwent a reversal in the 20th century.

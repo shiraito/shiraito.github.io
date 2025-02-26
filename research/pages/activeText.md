@@ -12,7 +12,7 @@
 
 - [R package "activeText"](https://github.com/activetext/activeText)
 
-- [arXiv](http://arxiv.org/abs/2202.02629)
+- arXiv: [2202.02629](https://doi.org/10.48550/arXiv.2202.02629)
 
 ## Abstract
 Social scientists often classify text documents to use the resulting labels as an outcome or a predictor in empirical research.

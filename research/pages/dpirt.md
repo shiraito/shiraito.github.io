@@ -4,7 +4,7 @@
 
 - [Accepted Manuscript](../files/dpirt.pdf)
 
-- [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
+- arXiv: [2205.05934](https://doi.org/10.48550/arXiv.2205.05934)
 
 - [Replication Materials](https://doi.org/10.7910/DVN/BCDALU)
 

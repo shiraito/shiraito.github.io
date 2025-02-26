@@ -1,8 +1,10 @@
-## [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito. 2024. "Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court." Unpublished manuscript.
+## [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito. 2024. "A Unified Model of Text and Citations for Topic-Specific Citation Networks." Unpublished manuscript.
 
 - [Manuscript](../files/pctm.pdf)
 
 - [Supplementary Information](../files/pctm_si.pdf)
+
+- arXiv: [2502.17708](https://doi.org/10.48550/arXiv.2502.17708)
 
 ## Abstract
 Social scientists analyze citation networks to study how documents influence subsequent work across various domains such as judicial politics and international relations.

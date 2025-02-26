@@ -19,8 +19,8 @@
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
   _American Political Science Review_ (In press)  
-  DOI: [10.1017/S0003055424000716](https://doi.org/10.1017/S0003055424000716)  
-  [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText) | [arXiv](http://arxiv.org/abs/2202.02629)
+  DOI: [10.1017/S0003055424000716](https://doi.org/10.1017/S0003055424000716) | arXiv: [2202.02629](https://doi.org/10.48550/arXiv.2202.02629)  
+  [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://sakikuzushima.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
@@ -31,8 +31,8 @@
 - ["A Non-parametric Bayesian Model for Detecting Differential Item Functioning: An Application to Political Representation in the US"](./pages/dpirt.md)  
   Yuki Shiraito, [James Lo](https://scholar.google.com/citations?user=4tdvLzIAAAAJ&hl=en), and [Santiago Olivella](https://www.santiagoolivella.info/)  
   _Political Analysis_ 31(3): 430-447 (July 2023)  
-  DOI: [10.1017/pan.2023.1](https://doi.org/10.1017/pan.2023.1)  
-  [Abstract](./pages/dpirt.md) | [Accepted Manuscript](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU) | [arXiv](https://doi.org/10.48550/arXiv.2205.05934)
+  DOI: [10.1017/pan.2023.1](https://doi.org/10.1017/pan.2023.1) | arXiv: [2205.05934](https://doi.org/10.48550/arXiv.2205.05934)  
+  [Abstract](./pages/dpirt.md) | [Accepted Manuscript](./files/dpirt.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/BCDALU)
 
 - ["Multiple Hypothesis Testing in Conjoint Analysis"](./pages/multitestcjoint.md)  
   [Guoer Liu](https://www.guoerliu.com/) and Yuki Shiraito  
@@ -62,12 +62,14 @@
   DOI: [10.3389/fnins.2013.00239](https://doi.org/10.3389/fnins.2013.00239)  
 
 ## Selected Manuscripts
-- ["Paragraph-citation Topic Models for Corpora with Citations: An Application to the United States Supreme Court"](./pages/pctm.md)  
+- ["A Unified Model of Text and Citations for Topic-Specific Citation Networks"](./pages/pctm.md)  
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
+  arXiv: [2502.17708](https://doi.org/10.48550/arXiv.2502.17708)  
   [Abstract](./pages/pctm.md) | [Manuscript](./files/pctm.pdf) | [Supplementary Information](./files/pctm_si.pdf)
 
 - ["A Dynamic Dirichlet Process Mixture Model for the Partisan Realignment of Civil Rights Issues in the U.S. House of Representatives"](./pages/dphmmix.md)  
   Nuannuan Xiang and Yuki Shiraito  
+  arXiv: [2502.17733](https://doi.org/10.48550/arXiv.2502.17733)  
   [Abstract](./pages/dphmmix.md) | [Manuscript](./files/dphmmix.pdf) | [Supplementary Information](./files/dphmmix_si)
 
 - ["When International Organizations Help Domestic Leaders Avoid Blame for Unpopular Policies"](./pages/iosupport.md)  
