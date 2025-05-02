@@ -73,7 +73,7 @@
   [Abstract](./pages/dphmmix.md) | [Manuscript](./files/dphmmix.pdf) | [Supplementary Information](./files/dphmmix_si)
 
 - ["When International Organizations Help Domestic Leaders Avoid Blame for Unpopular Policies"](./pages/iosupport.md)  
-  [Saki Kuzushima](https://ksaki.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
+  [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [EGAP Registration](https://osf.io/fxuek)
 
 - ["Uncovering Heterogeneous Treatment Effects"](./files/jmp.pdf)  
