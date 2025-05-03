@@ -8,7 +8,8 @@
 
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./pages/covid19note.md)  
   [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)  
-  _Social Science Japan Journal_ (Forthcoming)  
+  _Social Science Japan Journal_ (In press)  
+  DOI: [10.1093/ssjj/jyae035](https://doi.org/10.1093/ssjj/jyae035)  
   [Abstract](./pages/covid19note.md) | [Manuscript](./files/covid19note.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/IATHHU)
 
 - ["Gendered Views on Immigration Policy Stances? The Case of Japan"](./pages/gndrimgr.md)  

@@ -1,6 +1,10 @@
 # Outreach
 
 ## In Japanese/日本語
+- 「ベイズ推論」  
+  白糸裕輝  
+  [日本比較政治学会編『比較政治学事典』](https://www.maruzen-publishing.co.jp/book/b10123131.html)
+
 
 - 「ベイズ統計モデルを用いた政治データ分析」  
   白糸裕輝  
