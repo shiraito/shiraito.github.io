@@ -1,6 +1,12 @@
 # Research
 
 ## Peer-reviewed Articles
+- ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
+  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
+  _American Political Science Review_ 119(2): 985-1002 (May 2025)  
+  DOI: [10.1017/S0003055424000716](https://doi.org/10.1017/S0003055424000716) | arXiv: [2202.02629](https://doi.org/10.48550/arXiv.2202.02629)  
+  [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText)
+
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Tutelage"](./pages/tutelary.md)  
   [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
   _The Journal of Politics_ (Conditionally accepted)  
@@ -16,12 +22,6 @@
   [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
   _Japanese Journal of Political Science_ (Forthcoming)  
   [Abstract](./pages/gndrimgr.md) | [Accepted Manuscript](./files/gndrimgr.pdf) | [Supplementary Information](./files/gndrimgr_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/LGBONY)
-
-- ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
-  [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
-  _American Political Science Review_ (In press)  
-  DOI: [10.1017/S0003055424000716](https://doi.org/10.1017/S0003055424000716) | arXiv: [2202.02629](https://doi.org/10.48550/arXiv.2202.02629)  
-  [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://sakikuzushima.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
