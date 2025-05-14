@@ -1,4 +1,4 @@
-## [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito. "Improving Probabilistic Models in Text Classification via Active Learning" _American Political Science Review_ 119(2):985-1002.
+## [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito. 2025. "Improving Probabilistic Models in Text Classification via Active Learning" _American Political Science Review_ 119(2):985-1002.
 
 - [Open access publisher's version (DOI: 10.1017/S0003055424000716)](https://doi.org/10.1017/S0003055424000716)
 
