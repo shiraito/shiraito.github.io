@@ -1,6 +1,6 @@
-## [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito. "Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Tutelage." _The Journal of Politics_ (Conditionally accepted).
+## [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito. "Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy." _The Journal of Politics_ (Accepted).
 
-- [Manuscript](../files/tutelary.pdf)
+- [Author's Submitted Manuscript (May 28, 2024)](../files/tutelary.pdf)
 
 - [Supplementary Information](../files/tutelary_si.pdf)
 
