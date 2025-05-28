@@ -1,4 +1,4 @@
-## [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. 2024. "When International Organizations Help Domestic Leaders Avoid Blame for Unpopular Policies." Unpublished manuscript.
+## [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. 2025. "IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies." Revise and Resubmit, _Internatioanl Studies Quarterly_.
 
 - [Manuscript](../files/iosupport.pdf)
 
