@@ -83,9 +83,9 @@
 - ["Policy Positions in Mixed Member Electoral Systems: Evidence from Japan"](https://imai.fas.harvard.edu/research/japan.html)  
   Shigeo Hirano, Kosuke Imai, Yuki Shiraito, and Masaki Taniguchi
 
-## Publications in Japanese
+## Undergraduate Publications in Japanese
 
-- [_Koizumi seiken no kenkyu \[The Koizumi Regime_\]](http://www.bokutakusha.com/books/2008/7.html)  
+- [_Koizumi seiken no kenkyu \[The Koizumi Regime_\]](http://www.bokutaku.net/books/2008/7.html)  
   The Seventh Ikuo Kabashima Seminar (student organizers: Yoshihiro Nakajima, Ryo Fukuda, and Yuki Shiraito), ed.  
   Tokyo: Bokutakusha (October 2008)  
   - Chapters contributed  
