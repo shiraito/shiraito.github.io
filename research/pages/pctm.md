@@ -1,4 +1,4 @@
-## [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito. 2024. "A Unified Model of Text and Citations for Topic-Specific Citation Networks." Unpublished manuscript.
+## [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito. 2025. "A Unified Model of Text and Citations for Topic-Specific Citation Networks." Under review.
 
 - [Manuscript](../files/pctm.pdf)
 

@@ -1,4 +1,4 @@
-## [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. 2025. "IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies." Revise and Resubmit, _Internatioanl Studies Quarterly_.
+## [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. 2025. "IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies." Revised and Resubmitted, _Internatioanl Studies Quarterly_.
 
 - [Manuscript](../files/iosupport.pdf)
 
@@ -7,9 +7,4 @@
 - [EGAP Registration](https://osf.io/fxuek)
 
 ## Abstract
-Recent studies on the influence of international organizations (IOs) on state behavior have explored their ability to shape public opinion, a key mechanism for policy change. 
-This paper explores an important extension of this mechanism: whether domestic leaders can proactively leverage IO endorsements to bolster support for controversial policies and deflect political blame. 
-Using a survey experiment in Japan, we explore how this strategy’s effectiveness depends on the perceived traits of IOs, measured on multiple dimensions including favorability, neutrality, and expertise. 
-Our findings demonstrate that citing IO endorsements reduces public opposition to a tax increase---a contentious, high-salience policy that many experts nevertheless deem critical for sustaining social insurance programs. 
-Notably, the influence of IO endorsements is strongest when the IO is perceived as aligned with national interests, while perceptions of impartiality and expertise, emphasized in prior research, play a lesser role. 
-These results offer new insights into the conditions under which IOs can influence public opinion and call attention to the potential advantages of perceived IO biases for domestic elites.
+Recent research on international organizations (IOs) has highlighted their capacity to influence state behavior by shaping domestic public opinion, a key channel for policy change. This paper investigates an important extension of this mechanism: whether domestic leaders can proactively leverage IO endorsements to bolster support for contentious policies. Drawing on a survey experiment examining attitudes toward a controversial tax increase in Japan, we test how the effectiveness of this tactic depends on how IOs are perceived across multiple dimensions, including neutrality and expertise. Our results show that referencing IO endorsements reduces resistance to the policy. Crucially, their impact is strongest when the IO is seen as aligned with national interests. In contrast, traits such as impartiality and technical expertise---emphasized in previous studies---play a more limited role. Moreover, the persuasive power of endorsements is concentrated among government supporters, further underscoring the importance of perceived interest alignment as a critical dimension of persuasiveness. These findings offer new insights into when and how IOs shape mass attitudes and call attention to the strategic value of perceived IO biases for domestic elites.

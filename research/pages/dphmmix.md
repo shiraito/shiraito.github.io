@@ -1,4 +1,4 @@
-## Nuannuan Xiang and Yuki Shiraito. 2024. "A Dynamic Dirichlet Process Mixture Model for the Partisan Realignment of Civil Rights Issues in the U.S. House of Representatives" Unpublished manuscript.
+## Nuannuan Xiang and Yuki Shiraito. 2025. "A Dynamic Dirichlet Process Mixture Model for the Partisan Realignment of Civil Rights Issues in the U.S. House of Representatives" Unpublished manuscript.
 
 - [Manuscript](../files/dphmmix.pdf)
 
