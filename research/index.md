@@ -13,7 +13,7 @@
   [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText)
 
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./pages/covid19note.md)  
-  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), Yuki Shiraito, and [Michael Strausz](https://www.michaelstrausz.com/)  
+  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
   _Social Science Japan Journal_ (In press)  
   DOI: [10.1093/ssjj/jyae035](https://doi.org/10.1093/ssjj/jyae035)  
   [Abstract](./pages/covid19note.md) | [Manuscript](./files/covid19note.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/IATHHU)
