@@ -1,5 +1,7 @@
 # Research
 
+- [Research Statement](./files/statement.pdf)
+
 ## Peer-reviewed Articles
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./pages/tutelary.md)  
   [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
