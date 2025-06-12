@@ -5,8 +5,9 @@
 ## Peer-reviewed Articles
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./pages/tutelary.md)  
   [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
-  _The Journal of Politics_ (Accepted)  
-  [Abstract](./pages/tutelary.md) | [Manuscript](./files/tutelary.pdf) | [Supplementary Information](./files/tutelary_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/SSVFMI)
+  _The Journal of Politics_ (Forthcoming)  
+  DOI: [10.1086/737175](https://doi.org/10.1086/737175)  
+  [Abstract](./pages/tutelary.md) | [Author's Submitted Manuscript](./files/tutelary.pdf) | [Supplementary Information](./files/tutelary_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/SSVFMI)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
