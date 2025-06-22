@@ -6,13 +6,14 @@
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./pages/tutelary.md)  
   [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
   _The Journal of Politics_ (Forthcoming)  
-  [Abstract](./pages/tutelary.md) | [Manuscript](./files/tutelary.pdf) | [Supplementary Information](./files/tutelary_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/SSVFMI)
+  DOI: [10.1086/737175](https://doi.org/10.1086/737175)  
+  [Abstract](./pages/tutelary.md) | [Author's Submitted Manuscript](./files/tutelary.pdf) | [Supplementary Information](./files/tutelary_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/SSVFMI)
 
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./pages/covid19note.md)  
   [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
   _Social Science Japan Journal_ 28(2): jyae035 (Summer 2025)  
   DOI: [10.1093/ssjj/jyae035](https://doi.org/10.1093/ssjj/jyae035)  
-  [Abstract](./pages/covid19note.md) | [Manuscript](./files/covid19note.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/IATHHU)
+  [Abstract](./pages/covid19note.md) | [Author's Submitted Manuscript](./files/covid19note.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/IATHHU)
 
 - ["Improving Probabilistic Models in Text Classification via Active Learning"](./pages/activeText.md)  
   [Mitchell Bosley](http://mbosley.github.io/), [Saki Kuzushima](https://sakikuzushima.github.io/), [Ted Enamorado](https://www.tedenamorado.com/), and Yuki Shiraito  
