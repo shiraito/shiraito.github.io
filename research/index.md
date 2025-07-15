@@ -66,6 +66,10 @@
   DOI: [10.3389/fnins.2013.00239](https://doi.org/10.3389/fnins.2013.00239)  
 
 ## Selected Manuscripts
+- [The Impact of Elections on Civic Attitudes: Causal Evidence from Kazakhstan's Staggered Local Elections](./pages/akims.md)  
+  [Masaaki Higashijima](https://masaakihigashijima.com/), [Gento Kato](https://gentok.github.io/), and Yuki Shiraito  
+  [Abstract](./pages/akims.md) | [Manuscript](./files/akims.pdf) | [Supplementary Information](./files/akims_si.pdf) | [Preregistration](https://doi.org/10.17605/OSF.IO/FMZDN)
+
 - ["A Unified Model of Text and Citations for Topic-Specific Citation Networks"](./pages/pctm.md)  
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
   arXiv: [2502.17708](https://doi.org/10.48550/arXiv.2502.17708)  
