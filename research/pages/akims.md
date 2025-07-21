@@ -1,4 +1,4 @@
-## [Masaaki Higashijima](https://masaakihigashijima.com/), [Gento Kato](https://gentok.github.io/), and Yuki Shiraito. "The Impact of Elections on Civic Attitudes: Identification through the Staggered Introduction of Local Elections in Kazakhstan." Unpublished manuscript.
+## [Masaaki Higashijima](https://masaakihigashijima.com/), [Gento Kato](https://gentok.github.io/), and Yuki Shiraito. "The Impact of Elections on Civic Attitudes: Causal Evidence from Kazakhstan's Staggered Local Elections." Unpublished manuscript.
 
 - [Manuscript](../files/akims.pdf)
 
