@@ -3,6 +3,11 @@
 - [Research Statement](./files/statement.pdf)
 
 ## Peer-reviewed Articles
+- ["IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies"](./pages/iosupport.md)  
+  [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
+  _International Studies Quarterly_ (Accepted pending successful replication of empirical results)  
+  [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [Replication Materials](./files/iosupport_replication.tar.gz) | [EGAP Registration](https://osf.io/fxuek)
+
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./pages/tutelary.md)  
   [Masaaki Higashijima](https://masaakihigashijima.com/) and Yuki Shiraito  
   _The Journal of Politics_ (Forthcoming)  
@@ -74,10 +79,6 @@
   [ByungKoo Kim](https://www.byungkookim.com/), [Saki Kuzushima](https://sakikuzushima.github.io/), and Yuki Shiraito  
   arXiv: [2502.17708](https://doi.org/10.48550/arXiv.2502.17708)  
   [Abstract](./pages/pctm.md) | [Manuscript](./files/pctm.pdf) | [Supplementary Information](./files/pctm_si.pdf)
-
-- ["IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies"](./pages/iosupport.md)  
-  [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [EGAP Registration](https://osf.io/fxuek)
 
 - ["A Dynamic Dirichlet Process Mixture Model for the Partisan Realignment of Civil Rights Issues in the U.S. House of Representatives"](./pages/dphmmix.md)  
   Nuannuan Xiang and Yuki Shiraito  
