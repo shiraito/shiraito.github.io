@@ -5,7 +5,7 @@
 ## Peer-reviewed Articles
 - ["IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies"](./pages/iosupport.md)  
   [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
-  _International Studies Quarterly_ (Accepted pending successful replication of empirical results)  
+  _International Studies Quarterly_ (Forthcoming)  
   [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [Replication Materials](./files/iosupport_replication.tar.gz) | [EGAP Registration](https://osf.io/fxuek)
 
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./pages/tutelary.md)  
@@ -14,6 +14,11 @@
   DOI: [10.1086/737175](https://doi.org/10.1086/737175)  
   [Abstract](./pages/tutelary.md) | [Author's Submitted Manuscript](./files/tutelary.pdf) | [Supplementary Information](./files/tutelary_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/SSVFMI)
 
+- ["Gendered Views on Immigration Policy Stances? The Case of Japan"](./pages/gndrimgr.md)  
+  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
+  _Japanese Journal of Political Science_ (In press)  
+  [Abstract](./pages/gndrimgr.md) | [Accepted Manuscript](./files/gndrimgr.pdf) | [Supplementary Information](./files/gndrimgr_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/LGBONY)
+  
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./pages/covid19note.md)  
   [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
   _Social Science Japan Journal_ 28(2): jyae035 (Summer 2025)  
@@ -25,11 +30,6 @@
   _American Political Science Review_ 119(2): 985-1002 (May 2025)  
   DOI: [10.1017/S0003055424000716](https://doi.org/10.1017/S0003055424000716) | arXiv: [2202.02629](https://doi.org/10.48550/arXiv.2202.02629)  
   [Abstract](./pages/activeText.md) | [Accepted Manuscript](./files/active.pdf) | [Supplementary Information](./files/active_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/7DOXQY) | [R package](https://github.com/activetext/activeText)
-
-- ["Gendered Views on Immigration Policy Stances? The Case of Japan"](./pages/gndrimgr.md)  
-  [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
-  _Japanese Journal of Political Science_ (Forthcoming)  
-  [Abstract](./pages/gndrimgr.md) | [Accepted Manuscript](./files/gndrimgr.pdf) | [Supplementary Information](./files/gndrimgr_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/LGBONY)
 
 - ["Public Preferences for International Law Compliance: Respecting Legal Obligations or Conforming to Common Practices?"](./pages/intl_survey.md)  
   [Saki Kuzushima](https://sakikuzushima.github.io/), [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  

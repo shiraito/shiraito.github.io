@@ -1,4 +1,4 @@
-## [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito. "Gendered Views on Immigration Policy Stances? The Case of Japan" _Japanese Journal of Political Science_ (Forthcoming).
+## [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito. In press. "Gendered Views on Immigration Policy Stances? The Case of Japan" _Japanese Journal of Political Science_.
 
 - [Accepted Manuscript](../files/gndrimgr.pdf)
 
