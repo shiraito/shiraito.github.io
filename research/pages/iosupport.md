@@ -1,5 +1,7 @@
 ## [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito. Forthcoming. "IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies."  _Internatioanl Studies Quarterly_.
 
+- DOI: [10.1093/isq/sqaf073](https://doi.org/10.1093/isq/sqaf073)
+
 - [Manuscript](../files/iosupport.pdf)
 
 - [Supplementary Information](../files/iosupport_si.pdf)

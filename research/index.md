@@ -6,6 +6,7 @@
 - ["IO Endorsements, Perceived Alignment, and Public Support for Unpopular Policies"](./pages/iosupport.md)  
   [Saki Kuzushima](https://sakikuzushima.github.io/), Itsuki Umeyama, [Kenneth Mori McElwain](https://www.kennethmcelwain.com/), and Yuki Shiraito  
   _International Studies Quarterly_ (Forthcoming)  
+  DOI: [10.1093/isq/sqaf073](https://doi.org/10.1093/isq/sqaf073)  
   [Abstract](./pages/iosupport.md) | [Manuscript](./files/iosupport.pdf) | [Supplementary Information](./files/iosupport_si.pdf) | [Replication Materials](./files/iosupport_replication.tar.gz) | [EGAP Registration](https://osf.io/fxuek)
 
 - ["Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan's Diarchy"](./pages/tutelary.md)  
