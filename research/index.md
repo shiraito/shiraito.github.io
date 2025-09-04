@@ -18,6 +18,7 @@
 - ["Gendered Views on Immigration Policy Stances? The Case of Japan"](./pages/gndrimgr.md)  
   [Melanie Sayuri Sonntag](https://melaniedominguez.com/), [Michael Strausz](https://www.michaelstrausz.com/), and Yuki Shiraito  
   _Japanese Journal of Political Science_ (In press)  
+  DOI: [10.1017/S1468109924000215](https://doi.org/10.1017/S1468109924000215)  
   [Abstract](./pages/gndrimgr.md) | [Accepted Manuscript](./files/gndrimgr.pdf) | [Supplementary Information](./files/gndrimgr_si.pdf) | [Replication Materials](https://doi.org/10.7910/DVN/LGBONY)
   
 - ["Attitudes on the Entry Ban in Japan during the COVID-19 Pandemic"](./pages/covid19note.md)  
