@@ -1,10 +1,12 @@
 # Outreach
 
 ## In Japanese/日本語
+- [「与党支持率・内閣支持率と衆議院議席率」](./files/approval-seats.pdf)  
+  石間英雄・白糸裕輝
+
 - 「ベイズ推論」  
   白糸裕輝  
   [日本比較政治学会編『比較政治学事典』](https://www.maruzen-publishing.co.jp/book/b10123131.html)
-
 
 - 「ベイズ統計モデルを用いた政治データ分析」  
   白糸裕輝  
