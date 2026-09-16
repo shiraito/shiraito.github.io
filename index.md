@@ -1,22 +1,24 @@
 # Welcome!
 
-I am Assistant Professor of [Political Science at the University of Michigan](https://lsa.umich.edu/polisci).  I am also Faculty Associate of the [Center for Political Studies](https://www.isr.umich.edu/cps) where my primary office is located, Faculty Member of the [Center for Japanese Studies](https://ii.umich.edu/cjs), and Affiliated Faculty of the [Michigan Institute for Data Science (MIDAS)](https://midas.umich.edu/).  I work mainly on the development and applications of Bayesian statistical models and large-scale computational algorithms for data analysis.
+I am Associate Professor in the [Faculty of Political Science and Economics at Waseda University](https://www.waseda.jp/fpse/en/).
+My research has focused on the development and applications of Bayesian statistical models in political science. 
+I also work on methods for survey experiments and their applications in comparative politics and international relations.
 
 
-[CV (October 2025)](cv.pdf) | [ORCID](https://orcid.org/0000-0003-0264-1138) | [Web of Science](https://www.webofscience.com/wos/author/record/HRD-1390-2023)
+[CV (September 2026)](cv.pdf) | [ORCID](https://orcid.org/0000-0003-0264-1138) | [Web of Science](https://www.webofscience.com/wos/author/record/HRD-1390-2023)
 
 
 ## Contact
 
 - Email:  
-[shiraito@umich.edu](mailto:shiraito@umich.edu)
+[yks@waseda.jp](mailto:yks@waseda.jp)
 
-- Phone:  
-+1-734-615-5165
+<!-- - Phone:   -->
+<!-- +1-734-615-5165 -->
 
 - Office:  
-Center for Political Studies, 4259 Institute for Social Research  
-426 Thompson Street, Ann Arbor, MI 48104-2321
+1-6-1 Nishiwaseda, Bldg. 3, Room 1436  
+Shinjuku-ku, Tokyo 169--8050, Japan
 
 ## [Research](./research/)
 
