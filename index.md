@@ -1,6 +1,6 @@
 # Welcome!
 
-I am Associate Professor in the [Faculty of Political Science and Economics at Waseda University](https://www.waseda.jp/fpse/en/).
+I am an Associate Professor in the [Faculty of Political Science and Economics at Waseda University](https://www.waseda.jp/fpse/en/).
 My research has focused on the development and applications of Bayesian statistical models in political science. 
 I also work on methods for survey experiments and their applications in comparative politics and international relations.
 
